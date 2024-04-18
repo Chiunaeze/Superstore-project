@@ -1,0 +1,808 @@
+"name","id","standard_qty","gloss_qty","poster_qty","total"
+"GameStop",4011,13,11,0,24
+"SpartanNash",4501,15,11,0,26
+"Masco",4441,3,24,0,27
+"Walgreens Boots Alliance",1181,8,24,0,32
+"ADP",3471,11,27,0,38
+"Kroger",1161,6,32,0,38
+"Altria Group",2481,7,35,0,42
+"Core-Mark Holding",4161,2,40,0,42
+"ADP",3471,42,1,0,43
+"Monsanto",2881,24,20,0,44
+"DISH Network",2861,4,41,0,45
+"Land O'Lakes",3141,1,44,0,45
+"American Family Insurance Group",4311,6,41,0,47
+"Global Partners",3751,19,28,0,47
+"Whole Foods Market",2801,9,38,0,47
+"TJX",1881,2,47,0,49
+"Owens & Minor",3901,1,49,0,50
+"Ameriprise Financial",3311,10,42,0,52
+"Farmers Insurance Exchange",3261,7,48,0,55
+"Kellogg",3061,6,51,0,57
+"Nucor",2691,6,51,0,57
+"CST Brands",3981,45,17,0,62
+"Amgen",2291,44,19,0,63
+"New York Life Insurance",1601,9,54,0,63
+"Xcel Energy",3561,42,23,0,65
+"American Family Insurance Group",4311,8,62,0,70
+"DuPont",2001,17,54,0,71
+"Farmers Insurance Exchange",3261,3,68,0,71
+"Mondelez International",1931,42,29,0,71
+"Kinder Morgan",2971,33,39,0,72
+"Colgate-Palmolive",2731,4,69,0,73
+"Navistar International",3801,18,55,0,73
+"Pacific Life",4251,19,56,0,75
+"J.P. Morgan Chase",1221,14,62,0,76
+"Monsanto",2881,28,50,0,78
+"Liberty Interactive",3831,14,71,0,85
+"TJX",1881,27,58,0,85
+"Amgen",2291,50,37,0,87
+"Huntsman",3761,38,49,0,87
+"Cisco Systems",1531,24,64,0,88
+"Occidental Petroleum",3241,80,8,0,88
+"Walgreens Boots Alliance",1181,49,41,0,90
+"Kroger",1161,19,73,0,92
+"AT&T",1091,12,83,0,95
+"Tyson Foods",1651,90,5,0,95
+"Cognizant Technology Solutions",3291,69,29,0,98
+"EOG Resources",4211,88,12,0,100
+"EOG Resources",4211,67,34,0,101
+"Apple",1021,64,38,0,102
+"Cisco Systems",1531,33,69,0,102
+"IBM",1301,84,18,0,102
+"United Continental Holdings",1791,32,70,0,102
+"Western Refining",3881,49,53,0,102
+"Philip Morris International",2051,25,78,0,103
+"Caterpillar",1581,77,27,0,104
+"Bristol-Myers Squibb",2671,95,10,0,105
+"Paccar",2461,105,3,0,108
+"AT&T",1091,35,75,0,110
+"Kohl's",2441,67,43,0,110
+"PNC Financial Services Group",2701,97,14,0,111
+"Thermo Fisher Scientific",2631,27,84,0,111
+"Paccar",2461,7,105,0,112
+"Community Health Systems",2241,106,7,0,113
+"Baker Hughes",2771,85,33,0,118
+"PVH",4391,62,56,0,118
+"Stanley Black & Decker",3551,59,59,0,118
+"Walgreens Boots Alliance",1181,46,72,0,118
+"Capital One Financial",2111,97,22,0,119
+"Computer Sciences",3321,104,15,0,119
+"Synnex",3111,93,27,0,120
+"Best Buy",1701,116,5,0,121
+"Occidental Petroleum",3241,113,8,0,121
+"3M",1921,96,26,0,122
+"Occidental Petroleum",3241,95,29,0,124
+"PNC Financial Services Group",2701,112,13,0,125
+"Best Buy",1701,122,4,0,126
+"AT&T",1091,122,5,0,127
+"PNC Financial Services Group",2701,107,20,0,127
+"World Fuel Services",1911,96,31,0,127
+"Bristol-Myers Squibb",2671,109,19,0,128
+"Massachusetts Mutual Life Insurance",1751,127,1,0,128
+"Capital One Financial",2111,92,37,0,129
+"EOG Resources",4211,103,27,0,130
+"Newmont Mining",4481,31,99,0,130
+"Walmart",1001,85,47,0,132
+"Best Buy",1701,20,113,0,133
+"Halliburton",2161,103,30,0,133
+"Synnex",3111,92,41,0,133
+"VF",3301,112,22,0,134
+"HD Supply Holdings",4191,96,39,0,135
+"Computer Sciences",3321,56,80,0,136
+"PepsiCo",1431,99,37,0,136
+"Capital One Financial",2111,110,27,0,137
+"Walmart",1001,101,36,0,137
+"Bristol-Myers Squibb",2671,98,40,0,138
+"J.P. Morgan Chase",1221,91,47,0,138
+"Hilton Worldwide Holdings",3531,129,10,0,139
+"Ingram Micro",1631,91,48,0,139
+"Marathon Petroleum",1411,1,138,0,139
+"Tyson Foods",1651,128,11,0,139
+"FirstEnergy",2871,25,115,0,140
+"Liberty Mutual Insurance Group",1721,113,31,0,144
+"Chesapeake Energy",3221,95,50,0,145
+"International Paper",2261,107,39,0,146
+"Lear",2531,142,4,0,146
+"NextEra Energy",2621,141,5,0,146
+"TIAA",1811,22,124,0,146
+"Tyson Foods",1651,143,3,0,146
+"Whirlpool",2331,136,12,0,148
+"EOG Resources",4211,115,35,0,150
+"International Paper",2261,68,82,0,150
+"PBF Energy",3161,147,3,0,150
+"Abbott Laboratories",2371,102,49,0,151
+"Best Buy",1701,144,8,0,152
+"Exelon",1941,134,18,0,152
+"Best Buy",1701,147,7,0,154
+"Owens & Minor",3901,148,6,0,154
+"PG&E Corp.",2651,101,53,0,154
+"IBM",1301,117,38,0,155
+"Illinois Tool Works",3101,119,36,0,155
+"Tyson Foods",1651,150,5,0,155
+"AT&T",1091,146,10,0,156
+"Best Buy",1701,147,9,0,156
+"Microsoft",1241,132,24,0,156
+"AT&T",1091,149,8,0,157
+"DaVita HealthCare Partners",2991,152,5,0,157
+"Exelon",1941,150,7,0,157
+"PG&E Corp.",2651,89,68,0,157
+"Tyson Foods",1651,144,13,0,157
+"Hilton Worldwide Holdings",3531,135,24,0,159
+"Exelon",1941,139,21,0,160
+"PBF Energy",3161,152,8,0,160
+"PNC Financial Services Group",2701,35,125,0,160
+"Tyson Foods",1651,149,12,0,161
+"Whirlpool",2331,156,5,0,161
+"Lear",2531,151,11,0,162
+"Tyson Foods",1651,153,9,0,162
+"Computer Sciences",3321,153,10,0,163
+"Computer Sciences",3321,152,12,0,164
+"Paccar",2461,152,12,0,164
+"Hilton Worldwide Holdings",3531,139,26,0,165
+"Veritiv",4221,160,5,0,165
+"PBF Energy",3161,147,19,0,166
+"Paccar",2461,147,20,0,167
+"Caterpillar",1581,150,19,0,169
+"Owens & Minor",3901,161,8,0,169
+"Tyson Foods",1651,146,24,0,170
+"Computer Sciences",3321,63,109,0,172
+"Best Buy",1701,149,24,0,173
+"NextEra Energy",2621,164,9,0,173
+"AT&T",1091,162,13,0,175
+"General Electric",1101,160,16,0,176
+"Tyson Foods",1651,167,9,0,176
+"Walmart",1001,144,32,0,176
+"Tyson Foods",1651,149,28,0,177
+"Tyson Foods",1651,162,15,0,177
+"Microsoft",1241,165,13,0,178
+"J.P. Morgan Chase",1221,75,106,0,181
+"Corning",4121,177,7,0,184
+"Exelon",1941,163,23,0,186
+"Travelers Cos.",2041,151,35,0,186
+"AT&T",1091,163,25,0,188
+"Lear",2531,35,154,0,189
+"Best Buy",1701,166,29,0,195
+"Sherwin-Williams",3521,183,12,0,195
+"US Foods Holding",2211,118,80,0,198
+"Phillips 66",1291,180,23,0,203
+"DaVita HealthCare Partners",2991,193,11,0,204
+"Computer Sciences",3321,167,38,0,205
+"Paccar",2461,185,20,0,205
+"Leucadia National",3411,150,57,0,207
+"Mosaic",4151,197,14,0,211
+"Boeing",1231,195,19,0,214
+"Tyson Foods",1651,199,16,0,215
+"Leucadia National",3411,211,11,0,222
+"Anadarko Petroleum",4231,212,22,0,234
+"WestRock",3501,239,10,0,249
+"Dominion Resources",3421,237,14,0,251
+"Hilton Worldwide Holdings",3531,143,108,0,251
+"Computer Sciences",3321,160,92,0,252
+"Costco",1141,195,64,0,259
+"CHS",1831,228,39,0,267
+"Freddie Mac",1421,240,32,0,272
+"Microsoft",1241,259,13,0,272
+"Tyson Foods",1651,170,105,0,275
+"Leucadia National",3411,256,28,0,284
+"CDW",3191,273,14,0,287
+"Arrow Electronics",2181,276,12,0,288
+"Fluor",2541,268,20,0,288
+"Public Service Enterprise Group",3711,279,12,0,291
+"Archer Daniels Midland",1401,269,23,0,292
+"Republic Services",4111,267,25,0,292
+"Jarden",4271,272,21,0,293
+"SunTrust Banks",4281,293,1,0,294
+"Supervalu",2591,276,20,0,296
+"Jacobs Engineering Group",3341,274,24,0,298
+"Public Service Enterprise Group",3711,267,32,0,299
+"Leucadia National",3411,296,4,0,300
+"Freddie Mac",1421,299,2,0,301
+"Sysco",1561,282,19,0,301
+"Target",1371,287,14,0,301
+"BlackRock",3491,257,46,0,303
+"Fluor",2541,288,16,0,304
+"Penske Automotive Group",2421,295,10,0,305
+"Supervalu",2591,293,12,0,305
+"Fluor",2541,277,29,0,306
+"Norfolk Southern",3691,30,276,0,306
+"PepsiCo",1431,264,42,0,306
+"HollyFrontier",3131,281,26,0,307
+"Jabil Circuit",2571,297,10,0,307
+"Leucadia National",3411,284,23,0,307
+"Mosaic",4151,290,17,0,307
+"Wells Fargo",1261,298,9,0,307
+"Anadarko Petroleum",4231,291,17,0,308
+"PPG Industries",2811,297,11,0,308
+"Sysco",1561,284,24,0,308
+"Sysco",1561,291,17,0,308
+"Advance Auto Parts",3921,280,29,0,309
+"State Farm Insurance Cos.",1341,287,22,0,309
+"Archer Daniels Midland",1401,295,17,0,312
+"Fluor",2541,271,41,0,312
+"Hormel Foods",4031,286,26,0,312
+"Jarden",4271,283,30,0,313
+"Best Buy",1701,153,161,0,314
+"PPL",4491,293,21,0,314
+"Northrop Grumman",2171,289,26,0,315
+"PPL",4491,291,24,0,315
+"Prudential Financial",1491,280,35,0,315
+"Mosaic",4151,281,35,0,316
+"Verizon",1121,302,14,0,316
+"Visa",3031,300,16,0,316
+"Republic Services",4111,293,24,0,317
+"Sysco",1561,308,9,0,317
+"United States Steel",3431,285,32,0,317
+"Nordstrom",2961,299,19,0,318
+"Sears Holdings",2101,268,50,0,318
+"CDW",3191,286,33,0,319
+"Jabil Circuit",2571,296,23,0,319
+"Allstate",1801,280,40,0,320
+"Anadarko Petroleum",4231,303,17,0,320
+"Verizon",1121,294,26,0,320
+"D.R. Horton",3591,305,16,0,321
+"McDonald's",2081,300,21,0,321
+"Supervalu",2591,302,19,0,321
+"CHS",1831,282,40,0,322
+"Ford Motor",1081,293,29,0,322
+"KKR",4461,297,25,0,322
+"Mosaic",4151,304,18,0,322
+"Allstate",1801,297,26,0,323
+"Emerson Electric",2271,292,31,0,323
+"Avis Budget Group",4291,296,28,0,324
+"Emerson Electric",2271,297,27,0,324
+"Guardian Life Ins. Co. of America",3251,297,27,0,324
+"State Street Corp.",3631,299,25,0,324
+"Supervalu",2591,304,20,0,324
+"Verizon",1121,305,19,0,324
+"Leucadia National",3411,304,21,0,325
+"Republic Services",4111,298,27,0,325
+"Cummins",2471,302,24,0,326
+"General Dynamics",1871,307,19,0,326
+"KKR",4461,298,28,0,326
+"Supervalu",2591,305,21,0,326
+"News Corp.",4261,301,26,0,327
+"United States Steel",3431,298,29,0,327
+"Autoliv",4091,300,28,0,328
+"General Dynamics",1871,300,28,0,328
+"Guardian Life Ins. Co. of America",3251,289,39,0,328
+"Guardian Life Ins. Co. of America",3251,291,37,0,328
+"Intel",1501,290,38,0,328
+"Visa",3031,304,24,0,328
+"Archer Daniels Midland",1401,293,36,0,329
+"Duke Energy",2141,307,22,0,329
+"Estee Lauder",3601,302,27,0,329
+"McKesson",1041,307,22,0,329
+"NRG Energy",2921,300,29,0,329
+"United States Steel",3431,303,26,0,329
+"Arrow Electronics",2181,296,34,0,330
+"Energy Transfer Equity",1641,291,39,0,330
+"Goodyear Tire & Rubber",2681,302,28,0,330
+"Jacobs Engineering Group",3341,308,22,0,330
+"PPL",4491,311,19,0,330
+"Wells Fargo",1261,241,89,0,330
+"Chevron",1131,303,28,0,331
+"Chevron",1131,310,21,0,331
+"Ford Motor",1081,303,28,0,331
+"Republic Services",4111,302,29,0,331
+"United States Steel",3431,309,22,0,331
+"Emerson Electric",2271,303,29,0,332
+"AutoZone",3791,297,36,0,333
+"Republic Services",4111,302,31,0,333
+"Sears Holdings",2101,296,37,0,333
+"United States Steel",3431,301,32,0,333
+"Lincoln National",3041,277,57,0,334
+"Prudential Financial",1491,302,32,0,334
+"Sysco",1561,299,35,0,334
+"Guardian Life Ins. Co. of America",3251,307,28,0,335
+"Aetna",1451,301,35,0,336
+"Centene",2231,301,35,0,336
+"Duke Energy",2141,308,28,0,336
+"Goodyear Tire & Rubber",2681,302,34,0,336
+"Aetna",1451,293,44,0,337
+"Aetna",1451,301,37,0,338
+"Lincoln National",3041,303,35,0,338
+"Precision Castparts",3811,304,34,0,338
+"Republic Services",4111,307,31,0,338
+"Phillips 66",1291,311,28,0,339
+"Emerson Electric",2271,324,16,0,340
+"Jarden",4271,301,39,0,340
+"Visa",3031,298,42,0,340
+"D.R. Horton",3591,313,28,0,341
+"General Dynamics",1871,304,37,0,341
+"Duke Energy",2141,316,26,0,342
+"Freeport-McMoRan",2741,300,42,0,342
+"D.R. Horton",3591,274,69,0,343
+"KKR",4461,323,20,0,343
+"NRG Energy",2921,316,27,0,343
+"CDW",3191,308,36,0,344
+"Freeport-McMoRan",2741,295,49,0,344
+"Freeport-McMoRan",2741,303,41,0,344
+"Public Service Enterprise Group",3711,306,38,0,344
+"Raytheon",2191,301,45,0,346
+"Sysco",1561,289,57,0,346
+"BorgWarner",4381,307,40,0,347
+"Goodyear Tire & Rubber",2681,287,60,0,347
+"Centene",2231,311,37,0,348
+"Aetna",1451,305,44,0,349
+"D.R. Horton",3591,303,46,0,349
+"Fluor",2541,321,28,0,349
+"Toys 'R' Us",3391,321,28,0,349
+"Lincoln National",3041,314,36,0,350
+"Nordstrom",2961,303,47,0,350
+"Fluor",2541,305,46,0,351
+"United Technologies",1441,312,39,0,351
+"Wells Fargo",1261,314,38,0,352
+"Arrow Electronics",2181,311,42,0,353
+"Prudential Financial",1491,315,38,0,353
+"Leucadia National",3411,301,55,0,356
+"BB&T Corp.",3721,317,40,0,357
+"Emerson Electric",2271,322,35,0,357
+"Icahn Enterprises",2831,328,30,0,358
+"Aetna",1451,304,55,0,359
+"Jacobs Engineering Group",3341,300,59,0,359
+"Centene",2231,316,45,0,361
+"Altria Group",2481,338,24,0,362
+"Arrow Electronics",2181,296,66,0,362
+"Phillips 66",1291,304,58,0,362
+"Verizon",1121,298,64,0,362
+"Western Digital",2931,317,45,0,362
+"Stanley Black & Decker",3551,30,335,0,365
+"Celgene",4041,335,31,0,366
+"Aetna",1451,352,15,0,367
+"Dominion Resources",3421,290,78,0,368
+"Freddie Mac",1421,332,36,0,368
+"Lincoln National",3041,338,31,0,369
+"Avis Budget Group",4291,350,25,0,375
+"Jarden",4271,349,26,0,375
+"Parker-Hannifin",3231,171,205,0,376
+"Aetna",1451,346,35,0,381
+"Leucadia National",3411,295,86,0,381
+"Wells Fargo",1261,328,55,0,383
+"Leucadia National",3411,315,71,0,386
+"AmerisourceBergen",1111,349,41,0,390
+"Dollar General",2381,382,8,0,390
+"Freddie Mac",1421,365,27,0,392
+"Monsanto",2881,377,15,0,392
+"Mosaic",4151,307,89,0,396
+"CST Brands",3981,395,4,0,399
+"Wells Fargo",1261,295,105,0,400
+"Supervalu",2591,314,88,0,402
+"Chevron",1131,273,134,0,407
+"Estee Lauder",3601,309,98,0,407
+"DISH Network",2861,399,9,0,408
+"Celgene",4041,369,41,0,410
+"United Technologies",1441,394,21,0,415
+"Goodyear Tire & Rubber",2681,367,57,0,424
+"Leucadia National",3411,313,113,0,426
+"R.R. Donnelley & Sons",3541,419,9,0,428
+"Alcoa",2251,417,14,0,431
+"Disney",1521,396,42,0,438
+"Aetna",1451,419,29,0,448
+"Citigroup",1281,448,7,0,455
+"Cisco Systems",1531,450,7,0,457
+"Nucor",2691,450,7,0,457
+"Archer Daniels Midland",1401,421,37,0,458
+"Colgate-Palmolive",2731,445,13,0,458
+"Progressive",2361,458,4,0,462
+"Coca-Cola",1611,428,36,0,464
+"Humana",1511,434,31,0,465
+"Philip Morris International",2051,455,11,0,466
+"Reynolds American",3651,458,8,0,466
+"United Technologies",1441,31,438,0,469
+"ADP",3471,458,12,0,470
+"General Dynamics",1871,294,177,0,471
+"Progressive",2361,467,4,0,471
+"Sysco",1561,299,173,0,472
+"Thermo Fisher Scientific",2631,471,1,0,472
+"Lithia Motors",4451,459,17,0,476
+"Citigroup",1281,468,10,0,478
+"Thermo Fisher Scientific",2631,465,13,0,478
+"New York Life Insurance",1601,471,8,0,479
+"Charter Communications",3911,468,12,0,480
+"Citigroup",1281,475,5,0,480
+"CST Brands",3981,479,2,0,481
+"Gilead Sciences",1851,468,13,0,481
+"Ecolab",3051,483,1,0,484
+"Thrivent Financial for Lutherans",4171,461,23,0,484
+"Cameron International",4181,426,59,0,485
+"L-3 Communications",3441,467,18,0,485
+"eBay",3991,465,22,0,487
+"Ecolab",3051,469,18,0,487
+"Office Depot",2951,486,1,0,487
+"Thrivent Financial for Lutherans",4171,475,12,0,487
+"Disney",1521,486,2,0,488
+"Charter Communications",3911,481,8,0,489
+"Land O'Lakes",3141,482,7,0,489
+"Sysco",1561,380,109,0,489
+"Lowe's",1461,482,8,0,490
+"Citigroup",1281,477,14,0,491
+"Arrow Electronics",2181,298,194,0,492
+"Boeing",1231,485,7,0,492
+"Entergy",3461,491,1,0,492
+"GameStop",4011,473,19,0,492
+"Charter Communications",3911,489,4,0,493
+"DISH Network",2861,492,1,0,493
+"Gilead Sciences",1851,493,1,0,494
+"Kellogg",3061,482,12,0,494
+"Texas Instruments",3181,486,8,0,494
+"Anthem",1321,480,15,0,495
+"BlackRock",3491,489,6,0,495
+"Lithia Motors",4451,494,1,0,495
+"Pacific Life",4251,483,12,0,495
+"Philip Morris International",2051,483,12,0,495
+"Philip Morris International",2051,490,5,0,495
+"Cisco Systems",1531,488,8,0,496
+"Cisco Systems",1531,489,7,0,496
+"Ecolab",3051,489,7,0,496
+"Southwest Airlines",2411,486,10,0,496
+"United Continental Holdings",1791,470,26,0,496
+"Walgreens Boots Alliance",1181,492,4,0,496
+"Citigroup",1281,491,6,0,497
+"TJX",1881,484,13,0,497
+"United Natural Foods",4341,487,10,0,497
+"American Family Insurance Group",4311,484,14,0,498
+"Group 1 Automotive",3661,494,4,0,498
+"DTE Energy",3731,491,8,0,499
+"Entergy",3461,497,2,0,499
+"Hormel Foods",4031,41,458,0,499
+"Laboratory Corp. of America",4241,498,1,0,499
+"Lowe's",1461,489,10,0,499
+"Philip Morris International",2051,487,12,0,499
+"Thermo Fisher Scientific",2631,481,18,0,499
+"American Family Insurance Group",4311,489,11,0,500
+"Cisco Systems",1531,475,25,0,500
+"Global Partners",3751,483,17,0,500
+"MetLife",1391,488,12,0,500
+"Performance Food Group",2841,487,13,0,500
+"Walgreens Boots Alliance",1181,496,4,0,500
+"Western Refining",3881,489,11,0,500
+"ADP",3471,492,9,0,501
+"Citigroup",1281,495,6,0,501
+"Coca-Cola",1611,499,2,0,501
+"GameStop",4011,488,13,0,501
+"Group 1 Automotive",3661,495,6,0,501
+"Kellogg",3061,496,5,0,501
+"TJX",1881,493,8,0,501
+"BlackRock",3491,485,17,0,502
+"eBay",3991,501,1,0,502
+"Omnicom Group",2851,499,3,0,502
+"Qualcomm",2091,487,15,0,502
+"American Family Insurance Group",4311,496,7,0,503
+"Cigna",1781,494,9,0,503
+"Colgate-Palmolive",2731,498,5,0,503
+"Global Partners",3751,472,31,0,503
+"Global Partners",3751,495,8,0,503
+"Kimberly-Clark",2501,495,8,0,503
+"PayPal Holdings",4061,490,13,0,503
+"Stanley Black & Decker",3551,486,17,0,503
+"Altria Group",2481,486,18,0,504
+"American Express",1841,497,7,0,504
+"Ecolab",3051,473,31,0,504
+"Entergy",3461,481,23,0,504
+"Farmers Insurance Exchange",3261,496,8,0,504
+"Group 1 Automotive",3661,494,10,0,504
+"J.P. Morgan Chase",1221,494,10,0,504
+"Performance Food Group",2841,485,19,0,504
+"ADP",3471,490,15,0,505
+"BlackRock",3491,497,8,0,505
+"Cameron International",4181,486,19,0,505
+"Citigroup",1281,491,14,0,505
+"J.P. Morgan Chase",1221,491,14,0,505
+"Kinder Morgan",2971,504,1,0,505
+"Qualcomm",2091,497,8,0,505
+"Ross Stores",3361,495,10,0,505
+"Thermo Fisher Scientific",2631,499,6,0,505
+"United Continental Holdings",1791,493,12,0,505
+"Yum Brands",3171,495,10,0,505
+"AutoNation",2351,490,16,0,506
+"Colgate-Palmolive",2731,495,11,0,506
+"FirstEnergy",2871,494,12,0,506
+"Omnicom Group",2851,487,19,0,506
+"Thermo Fisher Scientific",2631,496,10,0,506
+"ADP",3471,503,4,0,507
+"Alcoa",2251,498,9,0,507
+"Cigna",1781,502,5,0,507
+"Coca-Cola",1611,494,13,0,507
+"Lithia Motors",4451,500,7,0,507
+"Northwestern Mutual",1991,497,10,0,507
+"Principal Financial",3351,469,38,0,507
+"Thermo Fisher Scientific",2631,494,13,0,507
+"Thermo Fisher Scientific",2631,499,8,0,507
+"United Continental Holdings",1791,498,9,0,507
+"Ameriprise Financial",3311,495,13,0,508
+"Charter Communications",3911,502,6,0,508
+"DTE Energy",3731,489,19,0,508
+"FedEx",1571,488,20,0,508
+"Hartford Financial Services Group",2511,503,5,0,508
+"Kroger",1161,501,7,0,508
+"Marathon Petroleum",1411,496,12,0,508
+"UnitedHealth Group",1051,490,18,0,508
+"Coca-Cola",1611,479,30,0,509
+"Johnson Controls",1691,499,10,0,509
+"Rite Aid",2061,498,11,0,509
+"Altria Group",2481,497,13,0,510
+"AutoNation",2351,499,11,0,510
+"Cigna",1781,505,5,0,510
+"Genworth Financial",4051,495,15,0,510
+"Univar",4141,508,2,0,510
+"Goodyear Tire & Rubber",2681,304,207,0,511
+"Philip Morris International",2051,509,2,0,511
+"United Continental Holdings",1791,508,3,0,511
+"Western Refining",3881,490,21,0,511
+"Aflac",2341,497,15,0,512
+"Altria Group",2481,502,10,0,512
+"Altria Group",2481,505,7,0,512
+"American Electric Power",2641,498,14,0,512
+"American Express",1841,508,4,0,512
+"Land O'Lakes",3141,505,7,0,512
+"Molina Healthcare",3001,492,20,0,512
+"Thermo Fisher Scientific",2631,6,506,0,512
+"United Continental Holdings",1791,507,5,0,512
+"Western Refining",3881,492,20,0,512
+"ADP",3471,504,9,0,513
+"Alcoa",2251,499,14,0,513
+"Altria Group",2481,507,6,0,513
+"BlackRock",3491,507,6,0,513
+"FedEx",1571,501,12,0,513
+"Laboratory Corp. of America",4241,506,7,0,513
+"Merck",1711,492,21,0,513
+"Office Depot",2951,501,12,0,513
+"Plains GP Holdings",2201,505,8,0,513
+"Southern",2611,488,25,0,513
+"Texas Instruments",3181,512,1,0,513
+"Anthem",1321,495,19,0,514
+"AutoNation",2351,497,17,0,514
+"BlackRock",3491,511,3,0,514
+"Colgate-Palmolive",2731,497,17,0,514
+"Entergy",3461,503,11,0,514
+"Walgreens Boots Alliance",1181,504,10,0,514
+"American Family Insurance Group",4311,499,16,0,515
+"BorgWarner",4381,20,495,0,515
+"Cisco Systems",1531,506,9,0,515
+"FirstEnergy",2871,506,9,0,515
+"Gilead Sciences",1851,505,10,0,515
+"Kellogg",3061,495,20,0,515
+"Land O'Lakes",3141,501,14,0,515
+"Lithia Motors",4451,509,6,0,515
+"Lowe's",1461,501,14,0,515
+"Lowe's",1461,512,3,0,515
+"New York Life Insurance",1601,501,14,0,515
+"Southwest Airlines",2411,500,15,0,515
+"Cigna",1781,512,4,0,516
+"Farmers Insurance Exchange",3261,509,7,0,516
+"Global Partners",3751,500,16,0,516
+"Progressive",2361,505,11,0,516
+"Land O'Lakes",3141,507,10,0,517
+"Lithia Motors",4451,500,17,0,517
+"Tech Data",2071,504,13,0,517
+"United Natural Foods",4341,494,23,0,517
+"Walgreens Boots Alliance",1181,510,7,0,517
+"Cameron International",4181,505,13,0,518
+"Core-Mark Holding",4161,504,14,0,518
+"eBay",3991,486,32,0,518
+"Ecolab",3051,510,8,0,518
+"Group 1 Automotive",3661,506,12,0,518
+"Lithia Motors",4451,509,9,0,518
+"United Continental Holdings",1791,503,15,0,518
+"Disney",1521,508,11,0,519
+"Kellogg",3061,516,3,0,519
+"Office Depot",2951,505,14,0,519
+"United Natural Foods",4341,497,22,0,519
+"Walgreens Boots Alliance",1181,507,12,0,519
+"Yum Brands",3171,497,22,0,519
+"Avis Budget Group",4291,54,466,0,520
+"DISH Network",2861,504,16,0,520
+"Group 1 Automotive",3661,507,13,0,520
+"Hartford Financial Services Group",2511,491,29,0,520
+"Mondelez International",1931,504,16,0,520
+"Texas Instruments",3181,494,26,0,520
+"Walgreens Boots Alliance",1181,501,19,0,520
+"Yum Brands",3171,505,15,0,520
+"Aflac",2341,512,9,0,521
+"Colgate-Palmolive",2731,491,30,0,521
+"FirstEnergy",2871,503,18,0,521
+"GameStop",4011,495,26,0,521
+"Land O'Lakes",3141,491,30,0,521
+"Southern",2611,514,7,0,521
+"United Natural Foods",4341,504,17,0,521
+"Cisco Systems",1531,486,36,0,522
+"Citigroup",1281,483,39,0,522
+"New York Life Insurance",1601,507,15,0,522
+"Texas Instruments",3181,512,10,0,522
+"Walgreens Boots Alliance",1181,511,11,0,522
+"AECOM",2551,501,22,0,523
+"Altria Group",2481,499,24,0,523
+"American Electric Power",2641,508,15,0,523
+"Staples",2311,502,21,0,523
+"Yum Brands",3171,509,14,0,523
+"Intel",1501,22,502,0,524
+"Lithia Motors",4451,506,18,0,524
+"eBay",3991,501,24,0,525
+"Qualcomm",2091,494,31,0,525
+"AutoNation",2351,503,23,0,526
+"Charter Communications",3911,508,18,0,526
+"HP",1191,496,30,0,526
+"Reynolds American",3651,521,5,0,526
+"Citigroup",1281,500,27,0,527
+"Dollar General",2381,509,18,0,527
+"Land O'Lakes",3141,510,17,0,527
+"Cameron International",4181,501,27,0,528
+"Cisco Systems",1531,526,2,0,528
+"United Continental Holdings",1791,507,21,0,528
+"Viacom",3121,510,18,0,528
+"Colgate-Palmolive",2731,514,15,0,529
+"Thermo Fisher Scientific",2631,505,24,0,529
+"Walgreens Boots Alliance",1181,508,21,0,529
+"Whole Foods Market",2801,505,24,0,529
+"Citigroup",1281,511,19,0,530
+"Cisco Systems",1531,516,15,0,531
+"eBay",3991,508,23,0,531
+"Entergy",3461,497,34,0,531
+"FedEx",1571,509,22,0,531
+"Marathon Petroleum",1411,528,3,0,531
+"Kroger",1161,495,37,0,532
+"Ecolab",3051,511,22,0,533
+"Marathon Petroleum",1411,503,30,0,533
+"Walgreens Boots Alliance",1181,514,19,0,533
+"Aflac",2341,518,16,0,534
+"Cigna",1781,516,18,0,534
+"Kinder Morgan",2971,517,17,0,534
+"Cigna",1781,522,13,0,535
+"FedEx",1571,514,21,0,535
+"Marathon Petroleum",1411,534,2,0,536
+"Charter Communications",3911,498,39,0,537
+"Marathon Petroleum",1411,516,21,0,537
+"Molina Healthcare",3001,503,34,0,537
+"Voya Financial",3511,512,25,0,537
+"Western Refining",3881,519,18,0,537
+"American Family Insurance Group",4311,528,10,0,538
+"DISH Network",2861,508,30,0,538
+"DISH Network",2861,510,28,0,538
+"PayPal Holdings",4061,485,53,0,538
+"Philip Morris International",2051,476,62,0,538
+"Republic Services",4111,49,489,0,538
+"Apple",1021,516,23,0,539
+"Land O'Lakes",3141,506,33,0,539
+"Marathon Petroleum",1411,498,41,0,539
+"Southern",2611,504,35,0,539
+"Coca-Cola",1611,525,15,0,540
+"General Mills",2601,534,6,0,540
+"Navistar International",3801,508,32,0,540
+"Performance Food Group",2841,524,16,0,540
+"TJX",1881,509,31,0,540
+"Exxon Mobil",1011,527,14,0,541
+"Goodyear Tire & Rubber",2681,61,480,0,541
+"Anthem",1321,512,30,0,542
+"Pacific Life",4251,503,39,0,542
+"Altria Group",2481,508,35,0,543
+"Ameriprise Financial",3311,528,15,0,543
+"FirstEnergy",2871,511,32,0,543
+"Walgreens Boots Alliance",1181,535,8,0,543
+"Allstate",1801,33,511,0,544
+"FirstEnergy",2871,533,11,0,544
+"Ecolab",3051,528,17,0,545
+"Ameriprise Financial",3311,503,43,0,546
+"United Continental Holdings",1791,493,53,0,546
+"Avis Budget Group",4291,54,493,0,547
+"Ecolab",3051,496,51,0,547
+"Johnson Controls",1691,503,44,0,547
+"Coca-Cola",1611,530,18,0,548
+"Aflac",2341,488,61,0,549
+"DISH Network",2861,545,4,0,549
+"Honeywell International",1741,526,25,0,551
+"Hertz Global Holdings",3681,549,3,0,552
+"Kinder Morgan",2971,17,535,0,552
+"Office Depot",2951,522,30,0,552
+"Altria Group",2481,515,38,0,553
+"Omnicom Group",2851,528,27,0,555
+"Altria Group",2481,525,31,0,556
+"FirstEnergy",2871,554,2,0,556
+"Emerson Electric",2271,38,519,0,557
+"Union Pacific",2281,553,4,0,557
+"Apple",1021,497,61,0,558
+"Walgreens Boots Alliance",1181,504,54,0,558
+"Ameriprise Financial",3311,524,35,0,559
+"Thermo Fisher Scientific",2631,494,65,0,559
+"J.P. Morgan Chase",1221,542,20,0,562
+"Norfolk Southern",3691,550,12,0,562
+"Western Refining",3881,555,7,0,562
+"Universal Health Services",3891,549,14,0,563
+"Ross Stores",3361,464,100,0,564
+"Citigroup",1281,492,73,0,565
+"Disney",1521,476,89,0,565
+"KKR",4461,50,515,0,565
+"Humana",1511,526,40,0,566
+"United Continental Holdings",1791,554,12,0,566
+"Disney",1521,566,1,0,567
+"Land O'Lakes",3141,515,52,0,567
+"FirstEnergy",2871,550,18,0,568
+"Aflac",2341,566,4,0,570
+"BlackRock",3491,500,73,0,573
+"Qualcomm",2091,554,19,0,573
+"Charter Communications",3911,491,85,0,576
+"Western Refining",3881,504,73,0,577
+"Aflac",2341,555,26,0,581
+"Farmers Insurance Exchange",3261,497,84,0,581
+"Nucor",2691,581,1,0,582
+"Marathon Petroleum",1411,585,1,0,586
+"Marathon Petroleum",1411,555,32,0,587
+"UnitedHealth Group",1051,505,84,0,589
+"General Mills",2601,494,99,0,593
+"Altria Group",2481,540,54,0,594
+"Core-Mark Holding",4161,532,63,0,595
+"HP",1191,529,67,0,596
+"Colgate-Palmolive",2731,592,6,0,598
+"Disney",1521,498,103,0,601
+"Southern",2611,505,96,0,601
+"Kellogg",3061,487,115,0,602
+"Arrow Electronics",2181,34,569,0,603
+"Visa",3031,488,116,0,604
+"Performance Food Group",2841,561,45,0,606
+"Paccar",2461,161,446,0,607
+"Arrow Electronics",2181,603,5,0,608
+"FedEx",1571,518,90,0,608
+"Nordstrom",2961,572,36,0,608
+"Western Refining",3881,493,115,0,608
+"American Airlines Group",1661,586,23,0,609
+"Ameriprise Financial",3311,603,6,0,609
+"New York Life Insurance",1601,609,3,0,612
+"Marathon Petroleum",1411,496,117,0,613
+"Raytheon",2191,131,483,0,614
+"Thermo Fisher Scientific",2631,610,6,0,616
+"Fluor",2541,92,525,0,617
+"HP",1191,485,134,0,619
+"Mondelez International",1931,543,80,0,623
+"Staples",2311,499,125,0,624
+"Land O'Lakes",3141,619,7,0,626
+"Reynolds American",3651,581,52,0,633
+"Pacific Life",4251,626,15,0,641
+"Cameron International",4181,510,132,0,642
+"Laboratory Corp. of America",4241,502,142,0,644
+"McDonald's",2081,44,600,0,644
+"Mosaic",4151,620,36,0,656
+"Cameron International",4181,534,131,0,665
+"BlackRock",3491,639,32,0,671
+"Illinois Tool Works",3101,485,191,0,676
+"Global Partners",3751,664,19,0,683
+"American Family Insurance Group",4311,488,197,0,685
+"Citigroup",1281,665,23,0,688
+"Stanley Black & Decker",3551,497,195,0,692
+"General Mills",2601,493,204,0,697
+"AES",2891,362,336,0,698
+"Thermo Fisher Scientific",2631,485,213,0,698
+"ADP",3471,481,235,0,716
+"Entergy",3461,717,13,0,730
+"Viacom",3121,489,257,0,746
+"Goodyear Tire & Rubber",2681,75,683,0,758
+"R.R. Donnelley & Sons",3541,776,17,0,793
+"Marathon Petroleum",1411,150,645,0,795
+"Group 1 Automotive",3661,737,60,0,797
+"Marathon Petroleum",1411,508,303,0,811
+"Molina Healthcare",3001,461,374,0,835
+"Morgan Stanley",1771,507,350,0,857
+"Time Warner Cable",2151,98,802,0,900
+"Humana",1511,494,408,0,902
+"Southwest Airlines",2411,935,1,0,936
+"Bristol-Myers Squibb",2671,424,521,0,945
+"Bristol-Myers Squibb",2671,464,490,0,954
+"Progressive",2361,497,515,0,1012
+"3M",1921,516,529,0,1045
+"L Brands",3331,510,569,0,1079
+"Time Warner Cable",2151,491,594,0,1085
+"PG&E Corp.",2651,492,598,0,1090
+"Marathon Petroleum",1411,549,542,0,1091
+"Occidental Petroleum",3241,499,595,0,1094
+"PG&E Corp.",2651,515,599,0,1114
+"Waste Management",3201,551,563,0,1114
+"Capital One Financial",2111,428,688,0,1116
+"Walgreens Boots Alliance",1181,1118,47,0,1165
+"Crown Holdings",4201,555,616,0,1171
+"World Fuel Services",1911,540,704,0,1244
+"Jarden",4271,480,1032,0,1512
+"TJX",1881,1780,47,0,1827
+"Western Refining",3881,502,1886,0,2388
+"Ecolab",3051,481,2464,0,2945
+"TJX",1881,3393,9,0,3402
+"Thermo Fisher Scientific",2631,4426,50,0,4476
+"EOG Resources",4211,114,14281,0,14395
